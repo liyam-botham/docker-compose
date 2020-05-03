@@ -34,7 +34,7 @@ services:
       - NxtCloud_ST:/var/www/html
     environment:
       MYSQL_DATABASE: mydbase
-      MYSQL_USER: heramb
+      MYSQL_USER: ayushman
       MYSQL_PASSWORD: Abcd@1234
       MYSQL_HOST: DBOS
       NEXTCLOUD_ADMIN_USER: liam@disbox.net
